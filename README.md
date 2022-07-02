@@ -8,5 +8,5 @@ How to Use:
 2. run pipenv shell to activate virtual env
 3. run pipenv install to install all dependencies
 4. run uvicorn main:app --reload to start a server then
-5. server will start on 127.0.0.1:8000 so add /docs for gui, means 127.0.0.1:8000/docs
+5. server will start at 127.0.0.1:8000 so add /docs for Swagger UI, means 127.0.0.1:8000/docs
   Thanks
